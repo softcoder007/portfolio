@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* navigation style */
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
